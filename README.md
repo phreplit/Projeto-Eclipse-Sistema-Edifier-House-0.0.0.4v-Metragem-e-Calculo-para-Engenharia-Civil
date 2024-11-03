@@ -1,2 +1,9 @@
-# Projeto-Eclipse-Sistema-Edifier-House-0.0.0.4v-Metragem-e-Calculo-para-Engenharia-Civil
-Modelo de projeto para Eclipse IDE - Projeto - Software: Sistema - Edifier House 0.0.0.4v - Metragem e Calculo para Engenharia Civil, desenvolvido em Java com SWING para Aplicação Windows Desktop.
+# Software: Sistema - Edifier House 0.0.0.4v - Metragem e Calculo para Engenharia Civil
+
+![sisphotosun](https://repository-images.githubusercontent.com/861831227/bc1550f5-b978-4729-ba8b-a903b62c2d4a)
+
+Software desenvolvido em Java com library SWING, desenvolvido para Metragem e Calculo para Engenharia Civil, no software é possível calcular área de terreno em Metros Quadrados, calcular perímetro de imóvel em metros e calcular a quantidade de blocos por Metros Quadrados para construir um muro ou parede.
+
+Necessário a instalação do Java SE Development Kit 8u202.
+
+Desenvolvido com plugin WindowBuilder para library SWING e SWING Designer no Eclipse IDE.
